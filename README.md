@@ -11,13 +11,10 @@ Time spent: **4** hours spent in total
 The following **required** functionality is completed:
 
 * :white_check_mark: The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* :white_check_mark: The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* :white_check_mark: The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* :white_check_mark: The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -29,12 +26,12 @@ Here's a walkthrough of implemented features:
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+
+- The biggest challenge was troubleshooting CORS errors when loading modules locally. This was resolved by running the project using a local development server (e.g., `python3 -m http.server`).
+- Understanding destructuring and the spread operator in Challenge 7 was also a useful learning point.
 
 ## License
 
