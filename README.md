@@ -26,6 +26,7 @@ Here's a walkthrough of implemented features:
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
+! -->
 
 ## Notes
 
