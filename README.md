@@ -20,7 +20,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-[http://i.imgur.com/link/to/your/gif/file.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2IzYjJkZXY3a3BsbmJwNWU4bG91aHZmbzZkN3l1aDF0dXhwdGFvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pcwv0bxZ5iUzGa0tus/giphy.gif)
+(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2IzYjJkZXY3a3BsbmJwNWU4bG91aHZmbzZkN3l1aDF0dXhwdGFvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pcwv0bxZ5iUzGa0tus/giphy.gif)
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 [Kap](https://getkap.co/)
