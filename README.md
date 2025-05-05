@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2IzYjJkZXY3a3BsbmJwNWU4bG91aHZmbzZkN3l1aDF0dXhwdGFvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pcwv0bxZ5iUzGa0tus/giphy.gif
+<img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2IzYjJkZXY3a3BsbmJwNWU4bG91aHZmbzZkN3l1aDF0dXhwdGFvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pcwv0bxZ5iUzGa0tus/giphy.gif" width="600" alt="Video Walkthrough">
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
